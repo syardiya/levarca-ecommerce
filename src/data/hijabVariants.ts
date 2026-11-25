@@ -177,7 +177,7 @@ export const BRAND_CONFIG = {
   location: "Cikarang (Online)",
   whatsappNumber: "6285894121730",
   whatsappDisplay: "0858-9412-1730",
-  siteUrl: "https://levarca.com",
+  siteUrl: "https://levarca-ecommerce.vercel.app",
   logoPngPath: "/logo.png",
   logoSvgPath: "/logo.svg",
 };
